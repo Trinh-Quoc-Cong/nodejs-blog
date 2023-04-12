@@ -1,0 +1,32 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trinh-Quoc-Cong/nodejs-blog.git"
+  },
+  "keywords": [
+    "blog",
+    "cong",
+    "f8",
+    "blog_cong"
+  ],
+  "author": "Công Ngáo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Trinh-Quoc-Cong/nodejs-blog/issues"
+  },
+  "homepage": "https://github.com/Trinh-Quoc-Cong/nodejs-blog#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
